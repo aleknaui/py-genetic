@@ -6,4 +6,4 @@ Based mainly on the [explanation at AI Junkie](http://www.ai-junkie.com/ga/intro
 
 # Usage
 
-Check example.py
+Check example.py. You might also want to check my implementation of the game Sequence with AI provided by this library [here](https://github.com/aleknaui/genetic-sequence).
